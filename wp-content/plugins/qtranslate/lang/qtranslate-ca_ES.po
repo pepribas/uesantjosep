@@ -1,0 +1,713 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qTranslate Catalan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-11 12:35+0000\n"
+"PO-Revision-Date: 2011-02-22 02:55+0100\n"
+"Last-Translator: Carlos Sanz <carlos.sanz@gmail.com>\n"
+"Language-Team: Carlos A Sanz García <carlos.sanz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: CATALÀ\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#@ qtranslate
+msgid "%LANG:&lt;normal_seperator&gt;:&lt;last_seperator&gt;% generates a list of languages seperated by &lt;normal_seperator&gt; except for the last one, where &lt;last_seperator&gt; will be used instead."
+msgstr "%LANG:&lt;normal_seperator&gt;:&lt;last_seperator&gt;% genera una llista de seperat idiomes &lt;normal_seperator&gt; excepte per l'ultim, on &lt;last_seperator&gt; serà utilitzad en aquest cas."
+
+#@ qtranslate
+msgid "2-Letter <a href=\"http://www.w3.org/WAI/ER/IG/ert/iso639.htm#2letter\">ISO Language Code</a> for the Language you want to insert. (Example: en)"
+msgstr "2-Lletres <a href=\"http://www.w3.org/WAI/ER/IG/ert/iso639.htm#2letter\">ISO de Codi d'Idioma</a> per l'idioma que vulguis afegir. (Example: ca)"
+
+#@ qtranslate
+msgid "<div id=\"message\" class=\"error fade\"><p>qTranslate Services could not load <a href=\"%s\">OpenSSL</a>!</p></div>"
+msgstr "<div id=\"message\" class=\"error fade\"><p>Serveis qTranslate no s'han pogut carregar<a href=\"%s\">OpenSSL</a>!</p></div>"
+
+#@ qtranslate
+msgid "<div>Translate to %s</div>"
+msgstr "<div>Traduir a %s</div>"
+
+#@ qtranslate
+msgid "Action"
+msgstr "Acció"
+
+#@ qtranslate
+msgid "Add Language"
+msgstr "Afegir Idioma"
+
+#@ qtranslate
+msgid "Add Language &raquo;"
+msgstr "Afegir Idioma &raquo;"
+
+#@ qtranslate
+msgid "Additional information: %s"
+msgstr "Informació adicional: %s"
+
+#@ qtranslate
+msgid "Adds userfriendly multilingual content support into Wordpress. For Problems visit the <a href=\"http://www.qianqin.de/qtranslate/forum/\">Support Forum</a>."
+msgstr "Afegeix suport multilingüe a Wordpress. Per problemes, visita la <a href=\"http://www.qianqin.de/qtranslate/forum/\"> Fòrum de Suport</a>."
+
+#@ qtranslate
+msgid "Advanced Settings"
+msgstr "Configuració avançada"
+
+#@ qtranslate
+msgid "Allows your visitors to choose a Language."
+msgstr "Permet als teus visitants triar un idioma."
+
+#@ qtranslate
+msgid "Also delete Translations for Categories/Tags/Link Categories."
+msgstr "També eliminar les traduccions per a les categories/Etiquetes/Categories d'Enllaços."
+
+#@ qtranslate
+msgid "An error occured: %s"
+msgstr "S'ha produït un error: %s"
+
+#@ qtranslate
+msgid "An serious error occured and qTranslate Services cannot proceed. For help, please visit the <a href=\"%s\">Support Forum</a>"
+msgstr "S'ha produït un error greu i qTranslate Services no pot continuar. Si et cal ajuda, si us plau visita el <a href=\"%s\">Fòrum de Suport</a>"
+
+#@ qtranslate
+msgid "An unknown error occured with the selected service."
+msgstr "Error desconegut amb el servei seleccionat."
+
+#@ qtranslate
+msgid "Automatically check for .mo-Database Updates of installed languages."
+msgstr "Cercar automàticament actualitzacions de les base de dades .mo dels idiomes instal.lats."
+
+#@ qtranslate
+msgid "Below, you will find configuration settings for qTranslate Service Providers, which are required for them to operate."
+msgstr "A continuació, trobaràs les opcions de configuració per als proveïdors de serveis de qTranslate, que són necessaris per al seu funcionament."
+
+#@ qtranslate
+msgid "Both processes are <b>irreversible</b>! Be sure to make a full database backup before clicking one of the links."
+msgstr "Tots dós processos són <b>irreversibles</b>! Assegurat de fer una còpia de seguretat completa abans de fer clic en un dels enllaços."
+
+#@ qtranslate
+msgid "Cannot disable Default Language!"
+msgstr "No es pot deshabilitar l'idioma predeterminat!"
+
+#@ qtranslate
+msgid "Cannot use this service, not all <a href=\"%s\">required fields</a> filled in for this service."
+msgstr "No es pot utilitzar aquest servei, no tots els <a href=\"%s\">camps obligatoris</a> estàn omplerts per aquest servei."
+
+#@ qtranslate
+msgid "Category Name"
+msgstr "Nom de Categoria"
+
+#@ qtranslate
+msgid "Check this box and click Save Changes to reset all qTranslate settings."
+msgstr "Marqueu aquesta casella i feu clic a Desa els canvis per restablir tots els paràmetres de qTranslate."
+
+#@ qtranslate
+msgid "Choose the corresponding country flag for language. (Example: gb.png)"
+msgstr "Tria la bandera del país corresponent per al llenguatge. (Per exemple: gb.png)"
+
+#@ qtranslate
+msgid "Choose the default language of your blog. This is the language which will be shown on %s. You can also change the order the languages by clicking on the arrows above."
+msgstr "Tria l'idioma predeterminat del teu blog. Aquest és el llenguatge que es mostra en %s. També pots canviar l'ordre dels idiomes en fer clic a les fletxes amunt/aball."
+
+#@ qtranslate
+msgid "Continue"
+msgstr "Continuar"
+
+#@ qtranslate
+msgid "Convert Database"
+msgstr "Convertir base de dades"
+
+#@ qtranslate
+msgid "Could not write to \"%s\", Gettext Databases could not be downloaded!"
+msgstr "No es pot escriure a \"%s\", les bases de dades Gettext Databases no poden accedir!"
+
+#@ qtranslate
+msgid "Current Status: %s"
+msgstr "Estat actual: %s"
+
+#@ qtranslate
+msgid "Date / Time Conversion"
+msgstr "Conversió Data / hora"
+
+#@ qtranslate
+msgid "Date Format"
+msgstr "Format de data"
+
+#@ qtranslate
+msgid "Debugging Information"
+msgstr "Informació de depuració"
+
+#@ qtranslate
+msgid "Default"
+msgstr "Per defecte"
+
+#@ qtranslate
+msgid "Default Language"
+msgstr "Idioma per defecte"
+
+#@ qtranslate
+msgid "Default Language / Order"
+msgstr "Idioma per defecte / Ordre"
+
+#@ qtranslate
+msgid "Delete"
+msgstr "El·liminar"
+
+#@ qtranslate
+msgid "Deleting an open order doesn't cancel it. You will have to logon to the service homepage and cancel it there."
+msgstr "Eliminació d'una comanda obert no l'anul. Vostè haurà d'iniciar sessió a la pàgina principal de servei i cancel lar allà."
+
+#@ qtranslate
+msgid "Depending on the mode selected, additional customizations of the theme may be needed."
+msgstr "Depenent del mode seleccionat, personalitzacions addicionals del tema poden ser necessàries."
+
+#@ qtranslate
+msgid "Depending on your Date / Time Conversion Mode, you can either enter a <a href=\"http://www.php.net/manual/function.strftime.php\">strftime</a> (use %q for day suffix (st,nd,rd,th)) or <a href=\"http://www.php.net/manual/function.date.php\">date</a> format. This field is optional. (Example: %A %B %e%q, %Y)"
+msgstr "Depenent de la teva data i format d'hora, pots util·litzar els formats <a href=\"http://www.php.net/manual/function.strftime.php \">strftime</a> (utilitza %q per als dies sufix (st,nd,rd,th))  o <a href=\"http://www.php.net/manual/function.date.php\">date</a>. Aquest camp és opcional. (Exemple:  %I:%M %p)"
+
+#@ qtranslate
+msgid "Depending on your Date / Time Conversion Mode, you can either enter a <a href=\"http://www.php.net/manual/function.strftime.php\">strftime</a> or <a href=\"http://www.php.net/manual/function.date.php\">date</a> format. This field is optional. (Example: %I:%M %p)"
+msgstr "Depenent de la teva data i format d'hora, pots util·litzar els formats<a href=\"http://www.php.net/manual/function.strftime.php \">strftime</a> o <a href=\"http://www.php.net/manual/function.date.php\">date</a>. Aquest camp és opcional. (Exemple:  %I:%M %p)"
+
+#@ qtranslate
+msgid "Detect Browser Language"
+msgstr "Detectar idioma del navegador"
+
+#@ qtranslate
+msgid "Detect the language of the browser and redirect accordingly."
+msgstr "Detectar l'idioma del navegador i redireccionar en conseqüència."
+
+#@ qtranslate
+msgid "Disable"
+msgstr "Desactivar"
+
+#@ qtranslate
+msgid "Display:"
+msgstr "Mostra:"
+
+#@ qtranslate
+msgid "Don't convert Links to files of the given file types. (Default: gif,jpg,jpeg,png,pdf,swf,tif,rar,zip,7z,mpg,divx,mpeg,avi,css,js)"
+msgstr "No convertie els enllaços als arxius dels tipus de fitxer determinat. (Per defecte: gif, jpg, jpeg, png, pdf, swf, tif, rar, zip,7z, mpg, divx, mpeg, avi, css, js)"
+
+#@ qtranslate
+msgid "Dropdown Box"
+msgstr "Caixa desplegable"
+
+#@ qtranslate
+msgid "ERROR: Could not connect to qTranslate Services. Please try again later."
+msgstr "ERROR: No s'ha pogut connectar a qTranslate Services. Torna-ho a provar més tard."
+
+#@ qtranslate
+msgid "Edit"
+msgstr "Editar"
+
+#@ qtranslate
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#@ qtranslate
+msgid "Edit Language"
+msgstr "Edició Idioma"
+
+#@ qtranslate
+msgid "Enable"
+msgstr "Activar"
+
+#@ qtranslate
+msgid "Enable qTranslate Services"
+msgstr "Habilita qTranslate Services"
+
+#@ qtranslate
+msgid "Enabling a language will cause qTranslate to update the Gettext-Database for the language, which can take a while depending on your server's connection speed."
+msgstr "Habilitar un idioma pot causar que qTranslate per actualitzar la base de dades Gettext per al llenguatge, Trigui una mica depenent de la velocitat de connexió del teu servidor."
+
+#@ qtranslate
+msgid "Feel free to choose an action:"
+msgstr "Sigues lliure per a triar una acció:"
+
+#@ qtranslate
+msgid "Flag"
+msgstr "Bandera"
+
+#@ qtranslate
+msgid "Flag Image Path"
+msgstr "Ruta d'imatge de la bandera"
+
+#@ qtranslate
+msgid "For help on how to configure qTranslate correctly, take a look at the <a href=\"%1$s\">qTranslate FAQ</a> and the <a href=\"%2$s\">Support Forum</a>."
+msgstr "Per obtenir ajuda sobre com configurar qTranslate correctament, doneu un cop d'ull a la <a href=\"%1$s\"> qTranslate FAQ </a> i <a href =\"%2$s\">Fòrum de Support</a>."
+
+#@ qtranslate
+msgid "General Settings"
+msgstr "Opcions Generals"
+
+#@ qtranslate
+msgid "Gettext databases updated."
+msgstr "bases de dade Gettext actualitzades."
+
+#@ qtranslate
+msgid "Hide Content which is not available for the selected language."
+msgstr "Ocultar contingut que no està disponible per a l'idioma seleccionat."
+
+#@ qtranslate
+msgid "Hide Title:"
+msgstr "Títol ocult:"
+
+#@ qtranslate
+msgid "Hide URL language information for default language."
+msgstr "Ocultar URL  d'informació d'idioma (ca. | /ca/ ) per l'idioma per defecte."
+
+#@ qtranslate
+msgid "Hide Untranslated Content"
+msgstr "Amaga contingut sense traduir"
+
+#@ qtranslate
+msgid "If something isn't working correctly, you can always try to reset all qTranslate settings. A Reset won't delete any posts but will remove all settings (including all languages added)."
+msgstr "Si alguna cosa no està funcionant correctament, sempre pots tractar de restablir tots els paràmetres de qTranslate. Amb un reajustament no s'eliminaran tots els posts, però s'eliminaran tots els ajustos (incloent tots els idiomes afegits)."
+
+#@ qtranslate
+msgid "If you are updating from qTranslate 1.x or Polyglot, <a href=\"%s\">click here</a> to convert posts to the new language tag format."
+msgstr "Si estàs actualitzant desde qTranslate 1.x o Polyglot, <a href = \"% s\">fes clic aquí</a> per convertir els missatges al format d'idioma de codis nous."
+
+#@ qtranslate
+msgid "If you encounter any problems and you are unable to solve them yourself, you can visit the <a href=\"%s\">Support Forum</a>. Posting the following Content will help other detect any misconfigurations."
+msgstr "Si téns cap problema i no pots resoldre'l, pots visitar el <a href=\"%s\"> Fòrum de Suport </a>.La publicació dels continguts següents us ajudaran a detectar altres errors de configuració."
+
+#@ qtranslate
+msgid "If you have installed qTranslate for the first time on a Wordpress with existing posts, you can either go through all your posts manually and save them in the correct language or <a href=\"%s\">click here</a> to mark all existing posts as written in the default language."
+msgstr "Si has instal·lat qTranslate per primera vegada en un Wordpress amb posts existents, pots anar a tots els teus posts de forma manual i guardar-los en l'idioma correcte o <a href =\"%s\">fer clic aquí</a> per marcar tots els posts existents com està escrit en l'idioma per defecte."
+
+#@ qtranslate
+msgid "Ignore Links"
+msgstr "Ignorar Enllaços"
+
+#@ qtranslate
+msgid "Image only"
+msgstr "Només imatge"
+
+#@ qtranslate
+msgid "Incorrect Flag Image Path! Please correct it!"
+msgstr "Ruta de Bandera incorrecta! Si us plau, corregiu-ho!"
+
+#@ qtranslate
+msgid "Language"
+msgstr "Idioma"
+
+#@ qtranslate
+msgid "Language Code"
+msgstr "Codi d'Idioma"
+
+#@ qtranslate
+msgid "Language Code has to be 2 characters long!"
+msgstr "El Codi d'Idioma ha de tenir 2 caràcters de longitud!"
+
+#@ qtranslate
+msgid "Language Management"
+msgstr "Gestió d'Idiomes"
+
+#@ qtranslate
+msgid "Language Management (qTranslate Configuration)"
+msgstr "Gestió d'Idiomes (configuració de qTranslate)"
+
+#@ qtranslate
+msgid "Language is already disabled!"
+msgstr "L'Idoma s'ha inhabilitat!"
+
+#@ qtranslate
+msgid "Language is already enabled or invalid!"
+msgstr "L'Idioma és ja habilitat o no vàlid!"
+
+#@ qtranslate
+msgid "Language is already first!"
+msgstr "Language is already first!"
+
+#@ qtranslate
+msgid "Language is already last!"
+msgstr "L'Idioma ja és l'ultim!"
+
+#@ qtranslate
+msgid "Languages"
+msgstr "Idiomes"
+
+#@ qtranslate
+msgid "Let qTranslate Services check if any open orders are finished."
+msgstr "Que qTranslate Services verifiqui si les ordres obertes han acabat."
+
+#@ qtranslate
+msgid "Locale"
+msgstr "Local"
+
+#@ qtranslate
+msgid "Message to display if post is not available in the requested language. (Example: Sorry, this entry is only available in %LANG:, : and %.)"
+msgstr "Missatge a mostrar si el post no està disponible en l'idioma demanat. (Exemple: Ho sento, aquesta entrada està disponible en% LANG:, : i %.)"
+
+#@ qtranslate
+msgid "Name"
+msgstr "Nom"
+
+#@ qtranslate
+msgid "New order saved."
+msgstr "Comanda salvada"
+
+#@ qtranslate
+msgid "No open orders."
+msgstr "No hi ha ordres oberts"
+
+#@ qtranslate
+msgid "No such language!"
+msgstr "No aquest idioma!"
+
+#@ qtranslate
+msgid "Not Available Message"
+msgstr "Missatge no disponible"
+
+#@ qtranslate
+msgid "Open Orders"
+msgstr "Ordres Obertes"
+
+#@ qtranslate
+msgid "Options saved."
+msgstr "Opciones guardades."
+
+#@ qtranslate
+msgid "Order deleted."
+msgstr "Ordre esborrada."
+
+#@ qtranslate
+msgid "Order successfully sent."
+msgstr "Ordre enviat amb èxit."
+
+#@ qtranslate
+msgid "PHP and Wordpress Locale for the language. (Example: en_US)"
+msgstr "PHP i configuració regional de Wordpress per l'idioma. (Exemple: ca_ES)"
+
+#@ qtranslate
+msgid "Path to the flag images under wp-content, with trailing slash. (Default: plugins/qtranslate/flags/)"
+msgstr "Ruta d'accés a les imatges del banderes a wp-content, amb barra final. (Per defecte: plugins/qtranslate/flags/)"
+
+#@ qtranslate
+msgid "Please choose the language you want to translate to:"
+msgstr "Si us plau, escolleix l'idioma que vols traduir a:"
+
+#@ qtranslate
+msgid "Please review your article and <a href=\"%s\">edit</a> it if needed."
+msgstr "Si us plau, revisa el teu article i <a href=\"%s\">edita</a> si és necessari."
+
+#@ qtranslate
+msgid "Post Title"
+msgstr "Títol del Post"
+
+#@ qtranslate
+msgid "Post with id \"%s\" not found!"
+msgstr "Post amb id \"%s\" no s'ha trobat!"
+
+#@ qtranslate
+msgid "Pre-Path and Pre-Domain mode will only work with mod_rewrite/pretty permalinks. Additional Configuration is needed for Pre-Domain mode!"
+msgstr "Pre-ruta i el mode pre-domini només funcionaràn amb mod_rewrite/pretty permalinks. Configuració addicional és necessària per el mode pre-domini!"
+
+#@ qtranslate
+msgid "Qian Qin"
+msgstr "Qian Qin"
+
+#@ qtranslate
+msgid "Request Translation"
+msgstr "Sol.licitud de traducció"
+
+#@ qtranslate
+msgid "Reset qTranslate"
+msgstr "Restablir qTranslate"
+
+#@ qtranslate
+msgid "Save Changes"
+msgstr "Desa els canvis"
+
+#@ qtranslate
+msgid "Save Changes &raquo;"
+msgstr "Desar Cambis &raquo;"
+
+#@ qtranslate
+msgid "Save after enabling to see more Configuration options."
+msgstr "Desar després d'habilitar per veure més opcions de configuració."
+
+#@ qtranslate
+msgid "Service"
+msgstr "Servei"
+
+#@ qtranslate
+msgid "Service Configuration"
+msgstr "Servei de configuració"
+
+#@ qtranslate
+msgid "Settings"
+msgstr "Configuració"
+
+#@ qtranslate
+msgid "Show"
+msgstr "Mostrar"
+
+#@ qtranslate
+msgid "Source Language"
+msgstr "Idioma origen"
+
+#@ qtranslate
+msgid "Status updated for all open orders."
+msgstr "Estat actualitzat de totes les ordres obertes."
+
+#@ qtranslate
+msgid "Tag Name"
+msgstr "Nom de Tag"
+
+#@ qtranslate
+msgid "Target Language"
+msgstr "Idioma destí"
+
+#@ qtranslate
+msgid "Text and Image"
+msgstr "Text i Image"
+
+#@ qtranslate
+msgid "Text only"
+msgstr "Només text"
+
+#@ qtranslate
+msgid "The Language must have a Locale!"
+msgstr "L'idioma ha de tenir un Local!"
+
+#@ qtranslate
+msgid "The Language must have a Not-Available Message!"
+msgstr "L'idioma ha de tenir un missatge de No-Disponible!"
+
+#@ qtranslate
+msgid "The Language must have a name!"
+msgstr "L'idioma ha de tenir un nom!"
+
+#@ qtranslate
+msgid "The Name of the language, which will be displayed on the site. (Example: English)"
+msgstr "El nom de la llengua, que es mostrarà en el lloc. (Exemple: Anglès)"
+
+#@ qtranslate
+msgid "The Post already has content for the selected target language. If a translation request is send, the current text for the target language will be overwritten."
+msgstr "El Post ja té contingut per l'idioma de destí seleccionat. Si una petició de traducció és enviada, el text actual de la llengua de destinació es sobreescriurà."
+
+#@ qtranslate
+msgid "The language/s do not have a valid ISO 639-1 representation."
+msgstr "L'Idioma/es no tenen una representació vàlida ISO 639-1."
+
+#@ qtranslate
+msgid "The language/s you used are not supported by the service."
+msgstr "L'Idioma/es que utilitzes no són compatibles amb el servei."
+
+#@ qtranslate
+msgid "The requested Post has no content, no Translation possible."
+msgstr "La petició no té cap contingut, no hi ha traducció possible."
+
+#@ qtranslate
+msgid "The server returned a debugging message."
+msgstr "El servidor torna un missatge de depuració."
+
+#@ qtranslate
+msgid "The service returned this message: %s"
+msgstr "El servei torna aquest missatge: %s"
+
+#@ qtranslate
+msgid "The system could not process your order."
+msgstr "El sistema no ha pogut processar la teva sol·licitud."
+
+#@ qtranslate
+msgid "There has been an error with the selected service."
+msgstr "Hi ha hagut un error amb el servei seleccionat."
+
+#@ qtranslate
+msgid "There is already a language with the same Language Code!"
+msgstr "Hi ha un Idioma amb el mateix Codi d'Idioma!"
+
+#@ qtranslate
+msgid "There is no such service."
+msgstr "No hi ha tal servei."
+
+#@ qtranslate
+msgid "This function will not work correctly if you installed qTranslate on a blog with existing entries. In this case you will need to take a look at \"Convert Database\" under \"Advanced Settings\"."
+msgstr "Aquesta funció no funcionarà correctament si teniu qTranslate en un blog amb les entrades existents. En aquest cas, hauràs de fer una ullada a \"Convertir base de dades\" a \"Opcions Avançades\"."
+
+#@ qtranslate
+msgid "This version of qTranslate has not been tested with your Wordpress version. To prevent Wordpress from malfunctioning, the qTranslate Editor has been disabled. You can reenable it by <a href=\"javascript:qtrans_editorInit();\" title=\"Activate qTranslate\" id=\"qtrans_imsg_link\">clicking here</a> (may cause <b>data loss</b>!). To remove this message, please update qTranslate to the <a href=\"http://www.qianqin.de/qtranslate/download/\">corresponding version</a>."
+msgstr "Aquesta versió de qTranslate no s'ha provat amb la versió de Wordpress. Per evitar el mal funcionament de Wordpress, l'Editor de qTranslate ha estat desactivat. Pot tornar a activar-ho fes <a href =\"javascript:qtrans_editorInit();\" title=\"Activate qTranslate\" id=\"qtrans_imsg_link\">clic aquí </a> (pot causar <b>la pèrdua de dades</b>!). Per eliminar aquest missatge, si us plau, actualitzeu qTranslate a la <a href=\"http://www.qianqin.de/qtranslate/download/\">versió corresponent</a>."
+
+#@ qtranslate
+msgid "Time Format"
+msgstr "Format d'hora"
+
+#@ qtranslate
+msgid "Title"
+msgstr "Títol"
+
+#@ qtranslate
+msgid "Title:"
+msgstr "Títol:"
+
+#@ qtranslate
+msgid "To translate a post, please go to the <a href=\"%s\">edit posts overview</a>."
+msgstr "Per traduir un missatge, si us plau aneu a la <a href=\"%s\">editar post</ a>."
+
+#@ qtranslate
+msgid "Translate"
+msgstr "Traducció"
+
+#@ qtranslate
+msgid "Translate a different post."
+msgstr "Traduir un post diferent."
+
+#@ qtranslate
+msgid "Translate this post to another language."
+msgstr "Traduir aquest missatge a un altre idioma."
+
+#@ qtranslate
+msgid "Translate to"
+msgstr "Traduir a"
+
+#@ qtranslate
+msgid "URL Modification Mode"
+msgstr "URL Manera de Modificació"
+
+#@ qtranslate
+msgid "Update Gettext Databases"
+msgstr "Actualitza bases de dades Gettext"
+
+#@ qtranslate
+msgid "Update Gettext databases now."
+msgstr "Actualizar bases de dades Gettext ara."
+
+#@ qtranslate
+msgid "Use Pre-Domain Mode (uses http://en.yoursite.com)"
+msgstr "Utilitzeu la manera de pre-domini (utilitza http://ca.yoursite.com)"
+
+#@ qtranslate
+msgid "Use Pre-Path Mode (Default, puts /en/ in front of URL)"
+msgstr "Utilitzar el mode de pre-ruta (per defecte, mostra /ca/ davant de la URL)"
+
+#@ qtranslate
+msgid "Use Query Mode (?lang=en)"
+msgstr "Utilitzeu el mode de consulta (?Lang=ca)"
+
+#@ qtranslate
+msgid "Use emulated date function and replace formats with the predefined formats for each language."
+msgstr "Utilitza la funció d'emular la data i reemplaçar formats amb els formats predefinits per a cada idioma."
+
+#@ qtranslate
+msgid "Use emulated date function."
+msgstr "Utilitza la funció d'emular la data."
+
+#@ qtranslate
+msgid "Use strftime instead of date and replace formats with the predefined formats for each language."
+msgstr "Utilitzar strftime lloc de la data i reemplaçar formats amb els formats predefinits per a cada idioma."
+
+#@ qtranslate
+msgid "Use strftime instead of date."
+msgstr "Utilitzar strftime en lloc de la data."
+
+#@ qtranslate
+msgid "Use the following Translation Service:"
+msgstr "Utilitzeu els serveis de traducció:"
+
+#@ qtranslate
+msgid "View all open orders."
+msgstr "Veure totes les ordres obertes."
+
+#@ qtranslate
+msgid "View this post."
+msgstr "Veure aquest post"
+
+#@ qtranslate
+msgid "Website"
+msgstr "Website"
+
+#@ qtranslate
+msgid "When checked, posts will be hidden if the content is not available for the selected language. If unchecked, a message will appear showing all the languages the content is available in."
+msgstr "Quan s'activa, els posts s'ocultaràn si el contingut no està disponible per a l'idioma seleccionat. Si no es controla, un post apareixerà mostrant tots els idiomes els quals el contingut estigui disponible."
+
+#@ qtranslate
+msgid "When the frontpage is visited via bookmark/external link/type-in, the visitor will be forwarded to the correct URL for the language specified by his browser."
+msgstr "Quan es visita la pàgina principal a través d'un marcador o enllaç extern, el visitant serà enviat a la direcció correcta per l'idioma especificat pel seu navegador."
+
+#@ qtranslate
+msgid "With qTranslate Services, you will be able to use professional human translation services with a few clicks. (Requires OpenSSL)"
+msgstr "Amb qTranslate Services, podràs utilitzar els serveis professionals de traducció humana amb uns pocs clics. (Requereix d'OpenSSL)"
+
+#@ qtranslate
+msgid "Yes, I really want to reset qTranslate."
+msgstr "Sí, realment vull per restablir qTranslate."
+
+#@ qtranslate
+msgid "You will need to install the .mo file for this language."
+msgstr "Hauràs d'instal·lar l'arxiu .mo per aquest idioma."
+
+#@ qtranslate
+msgid "Your article is available in multiple languages. If you do not want to translate from %1$s, you can switch to one of the following languages: %2$s"
+msgstr "El teu article està disponible en diversos idiomes. Si no vols traduir del %1$s, pots canviar a un dels següents idiomes: %2$s"
+
+#@ qtranslate
+msgid "Your article will be SSL encrypted and securly sent to qTranslate Services, which will forward your text to the chosen Translation Service. Once qTranslate Services receives the translated text, it will automatically appear on your blog."
+msgstr "El teu article serà encriptat SSL i tramès a segurament a qTranslate Serveis, el qual enviarà el text al servei de traducció escollit. Un cop qTranslate Services rep el text traduït, apareixerà automàticament al teu blog."
+
+#@ qtranslate
+msgid "Your translation order has been successfully transfered to the selected service."
+msgstr "La teva comanda de traducció ha estat transferit amb èxit al servei seleccionat."
+
+#@ qtranslate
+msgid "http://www.qianqin.de"
+msgstr "http://www.qianqin.de"
+
+#@ qtranslate
+msgid "http://www.qianqin.de/qtranslate/"
+msgstr "http://www.qianqin.de/qtranslate/"
+
+#@ qtranslate
+msgid "language_name"
+msgstr "nom_didioma"
+
+#@ qtranslate
+msgid "multilingual, multi, language, admin, tinymce, qTranslate, Polyglot, bilingual, widget, switcher, professional, human, translation, service"
+msgstr "multilingüe, multi, idioma, administrador, TinyMCE, qTranslate, Polyglot, bilingüe, widget, selector, professional, human traducció, servei"
+
+#@ qtranslate
+msgid "qTranslate"
+msgstr "qTranslate"
+
+#@ qtranslate
+msgid "qTranslate Language Chooser"
+msgstr "qTranslate Selector d'idioma"
+
+#@ qtranslate
+msgid "qTranslate Services"
+msgstr "Serveis qTranslate"
+
+#@ qtranslate
+msgid "qTranslate Services Settings"
+msgstr "qTranslate Serveis de Configuració"
+
+#@ qtranslate
+msgid "qTranslate Services will automatically check every hour whether the translations are finished and update your posts accordingly. You can always <a href=\"%s\">check manually</a>."
+msgstr "qTranslate Serveis comprovarà automàticament cada hora si les traduccions estan acabades i actualitzarà els teus posts en conseqüència. Sempre es pot <a href=\"%s\">comprovar manualment</a>."
+
+#@ qtranslate
+msgid "qTranslate has been reset."
+msgstr "qTranslate s'ha restablert."
+
+#@ qtranslate
+msgid "qTranslate will query the Wordpress Localisation Repository every week and download the latest Gettext Databases (.mo Files)."
+msgstr "qTranslate consultarà el Repositori de  Localització de Wordpress totes les setmanes i descarregarà les darreres bases de dades de Gettext (arxius  .mo)."
+
+#@ qtranslate
+msgid "service_description"
+msgstr "service_description"
+
+#@ qtranslate
+msgid "service_name"
+msgstr "service_name"
+

@@ -1,0 +1,106 @@
+*** Swatch Changelog ***
+
+2012.02.15 - version 1.4.5
+ * loop-portfolio.php - Added placeholder image if no image uploaded
+ * images/temp-portfolio.png - Added placeholder image
+
+2012.02.14 - version 1.4.4
+ * /includes/js/portfolio.js - Add woo_move_clearfix() function and call the function when changing the portfolio category to move the ".fix" DIV tag appropriately.
+
+2012.02.09 - version 1.4.3
+ * style.css - fixed z-index for top menu dropdown
+
+2012.02.08 - version 1.4.2
+ * /includes/js/jquery.prettyPhoto.js - Re-minify and upgrade prettyPhoto to V3.1.3.
+ * /includes/js/portfolio.js - Adjust prettyPhoto initialization to remove the social_tools.
+
+2012.02.06 - version 1.4.1
+ * loop-portfolio.php - Added clear fix for portfolio items.
+
+2012.02.05 - version 1.4.0
+ * loop-portfolio.php - Apply 'woo_portfolio_loop_query_args' filter on $query_args.
+ * /includes/widgets/widget-woo-portfolio.php - Add widget settings for 'orderby' and 'order' parameters.
+
+2012.01.22 - version 1.3.6
+ * /includes/theme-actions.php - Make sure the single post/page layout setting is applied correctly (referencing the $layouts array).
+
+2011.12.20 - version 1.3.5
+ * single-portfolio.php - added noheight to woo_image to make image work in IE.
+
+2011.11.30 - version 1.3.4
+ * /includes/widgets/widget-woo-postmeta.php - Make sure the $post URL and title are retrieved correctly.
+ * /includes/widgets/widget-woo-twitter.php - Code clean-up and consistency checks.
+ * /includes/theme-functions.php - Add "woothemes" textdomain to comment form label text, "slides" custom admin column titles and "portfolio gallery" taxonomy labels and custom admin column titles.
+ * header.php - Replace all instances of bloginfo( 'url' ) with echo home_url( '/' ) for code standards optimisation.
+
+2011.11.12 - version 1.3.3
+ * /includes/widgets/widget-woo-adspace.php - Make sure the image URL is applied correctly when using an image advert.
+
+2011.11.09 - version 1.3.2
+ * /includes/theme-js.php - Add jquery-ui-tabs as a dependency on general.js when on a single post/page.
+
+2011.11.06 - version 1.3.1
+ * style.css - fixed right content layout css .two-col-right .xxx
+
+2011.10.20 - version 1.3.0
+ * /includes/theme-options.php - Added optional custom lightbox description text field for portfolio items.
+ * /includes/theme-functions.php - Added logic to handle custom lightbox description text field.
+ * style.css - Width fixes for portfolio items & styled portfolio single page gallery
+ * includes/home-portfolio.php - Fixed portfolio image width
+ * includes/theme-functions.php - Adjusted portfolio single page gallery thumbnail widths
+ * single-portfolio.php - Adjusted video embed width 
+
+2011.10.13 - version 1.2.9
+ * style.css - Fixed portfolio items last-child margin bug
+
+2011.10.11 - version 1.2.8
+ * style.css - Added IE8 slider opacity fallback
+
+2011.10.06 - version 1.2.7
+ * style.css - Fixed z-index for header
+
+2011.10.05 - version 1.2.6
+ * style.css - Portfolio thumbnail drop-shadow adjusted
+
+2011.10.04 - version 1.2.5
+ * /includes/js/general.js - Added support for fadeSpeed and set crossfade to false for a smoother fade effect.
+ * style.css - IE7 slider bugs
+
+2011.10.03 - version 1.2.4
+ * style.css - Removed z-index of header as it was conflicting with lightboxes.
+ 
+2011.10.03 - version 1.2.3
+ * style.css - Adjusted portfolio page thumbnail shadow width
+
+2011.09.30 - version 1.2.2
+ * /includes/js/jquery.jcarousel.min.js - Added missing jCarousel JavaScript file.
+
+2011.09.26 - version 1.2.1
+ * /includes/widgets/widget-woo-flickr.php - Fixed issue of Flickr ID not being passed through to the widget.
+
+2011.09.06 - version 1.2.0
+ * /includes/featured.php - Fix conflict between automatic thumbnails theme option and non-image slides with images in the slide content.
+ * /includes/theme-actions.php - Fixed styling conflict between custom link styles and site-title link colour. Added body class for if the "Enable Lightbox" theme option is checked or if on a page that is a part of the "Portfolio" component.
+ * /includes/theme-options.php - Added "Enable Lightbox" theme option under the "Dynamic Images" tab.
+ * /includes/theme-functions.php - Load PrettyPhoto JavaScript and CSS if the "Enable Lightbox" theme option is checked and not on a "Portfolio"-related screen.
+ * /includes/theme-js.php - Add "woothemes_add_javascript" and "woothemes_add_css" actions appropriately. Re-order general.js enqueue.
+ * /includes/js/general.js - Add JavaScript to automatically activate PrettyPhoto on all links that point to image files.
+
+2011.09.05 - version 1.1.1
+ * style.css - Removed text colour from #connect h3 to allow typography settings to override this.
+ * /includes/gallery.php - Set the height of the portfolio gallery slider to the height of the first slide on load.
+ * /includes/theme-js.php - Remove enqueue of jCarousel script on the homepage.
+ * /includes/theme-actions.php - Make sure default layout body class is added correctly on portfolio items and in general. Styling Options apply correctly when using alt styles.
+ * /includes/featured.php - Swap check of thumbnail and video around, and check if no video is set before checking for a thumbnail (fixes YouTube video display issue in slider).
+
+2011.09.01 - version 1.1.0
+ * /includes/widgets/widget-woo-blog.php - Added "Hits from the Blog" dedicated custom widget.
+ * /includes/widgets/widget-woo-portfolio.php - Added "Portfolio Snapshots" dedicated custom widget.
+ * /includes/theme-widgets.php - Loaded in custom "Woo - Blog" and "Woo - Portfolio" widgets.
+ * /includes/home-blog.php - Adjusted CSS class to be widget_woo_blog instead of widget_blog, for styling consistency with "Woo - Blog" widget.
+ * /includes/js/portfolio.js - Added support for the hover fade on the "Woo - Portfolio" widget.
+ * /includes/theme-actions.php - Adjusted custom styling logic to make sure link colours apply to comments list.
+ * style.css - Adjusted "Hits from the Blog" styling to be on the widget_woo_blog CSS class, instead of the #blog ID. Fixed "Subscribe & Connect title doesn't apply custom typography" issue by removing default font CSS on #connect h3.
+
+2011.08.31 - version 1.0
+ * First release!

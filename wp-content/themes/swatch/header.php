@@ -39,6 +39,7 @@ global $woo_options;
 			<div id="logo">
 		    <?php
 $logo = get_template_directory_uri() . '/images/logo.png';
+$logoright = get_template_directory_uri() . '/images/logoright.png';
 if ( isset( $woo_options['woo_logo'] ) && $woo_options['woo_logo'] != '' ) { $logo = $woo_options['woo_logo']; }
 ?>
 			<?php if ( ! isset( $woo_options['woo_texttitle'] ) || $woo_options['woo_texttitle'] != 'true' ) { ?>
@@ -56,7 +57,11 @@ if ( isset( $woo_options['woo_logo'] ) && $woo_options['woo_logo'] != '' ) { $lo
 
 			</div><!-- /#logo -->
 
-			<div id="navigation" class="fr">
+			<div id="logoright">
+			<img src="<?php echo $logoright; ?>" />
+			</div>
+<!--
+<div id="navigation" class="fr">
 
 				<?php
 if ( function_exists( 'has_nav_menu' ) && has_nav_menu( 'primary-menu' ) ) {

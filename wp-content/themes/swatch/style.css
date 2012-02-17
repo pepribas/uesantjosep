@@ -237,13 +237,13 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 	#top .nav li  {  }
 	#top .nav li a.sf-with-ul { padding-right:20px; }
 	
-	#top .nav a:hover, 
+	#top .nav a:hover,
 	#top .nav li.current_page_item a, 
 	#top .nav li.current_page_parent a,
 	#top .nav li.current-menu-ancestor a,
 	#top .nav li.current-cat a,
 	#top .nav li.current-menu-item a,
-	#top .nav li.sfHover { background: #222; }
+	#top .nav li.sfHover { background: #333; }
 	
 	#top .nav li ul  { background: #222; margin:0; padding:0px; width: 180px; border: none; z-index:9999;
 		/* Box Shadow */
@@ -269,11 +269,12 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 	#top .nav li li:hover ul, #top .nav li li.sfhover ul,
 	#top .nav li li li:hover ul, #top .nav li li li.sfhover ul,
 	#top .nav li li li li:hover ul, #top .nav li li li li.sfhover ul  { left:auto; }
+	#top .fl  { float:right; }
 
 /* 2.3 Header */
 #header{ position: relative; z-index: 999; margin: 0 0 30px; background: transparent url(images/bg-ripple-header.png) repeat left bottom; }
 .home #header  { margin-bottom: -5px; }
-#header .col-full { padding: 24px 0; clear: both; position: relative; }
+#header .col-full { padding: 12px 0; clear: both; position: relative; }
 
 #logo  { float:left; }
 #logo img  { margin-top: 7px;}
@@ -281,6 +282,8 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 #logo .site-title a { color:#222; font-size:40px; line-height:40px; text-transform:none; font-weight:normal; text-decoration:none; }
 #logo .site-title a:hover { text-decoration:underline; }
 #logo .site-description { color:#999; font:italic 14px/1em Georgia, serif; }
+
+#logoright  { float:right; }
 
 #topad {float:right;}
 

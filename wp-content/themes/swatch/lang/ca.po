@@ -36,7 +36,7 @@ msgstr ""
 #: taxonomy-portfolio-gallery.php:32
 #@ woothemes
 msgid "Archive"
-msgstr ""
+msgstr "Arxiva"
 
 #: archive.php:21
 #: taxonomy-portfolio-gallery.php:33
@@ -65,19 +65,19 @@ msgstr ""
 #: template-timeline.php:74
 #@ woothemes
 msgid "Leave a comment"
-msgstr ""
+msgstr "Deixa un comentari"
 
 #: archive.php:60
 #: template-blog.php:56
 #@ woothemes
 msgid "1 Comment"
-msgstr ""
+msgstr "1 comentari"
 
 #: archive.php:60
 #: template-blog.php:56
 #@ woothemes
 msgid "% Comments"
-msgstr ""
+msgstr "% comentaris"
 
 #: archive.php:62
 #: template-blog.php:59
@@ -96,7 +96,7 @@ msgstr ""
 #: template-fullwidth.php:39
 #@ woothemes
 msgid "Sorry, no posts matched your criteria."
-msgstr ""
+msgstr "No hi ha cap entrada que es correspongui amb els criteris."
 
 #: comments.php:8
 #@ woothemes
@@ -111,7 +111,7 @@ msgstr ""
 #: comments.php:19
 #@ woothemes
 msgid "Submit A Comment"
-msgstr ""
+msgstr "Envia un comentari"
 
 #: comments.php:27
 #@ woothemes
@@ -131,7 +131,7 @@ msgstr ""
 #: comments.php:27
 #@ woothemes
 msgid "to"
-msgstr ""
+msgstr "per"
 
 #: comments.php:44
 #@ woothemes
@@ -146,12 +146,12 @@ msgstr ""
 #: comments.php:61
 #@ woothemes
 msgid "No comments yet."
-msgstr ""
+msgstr "Encara no hi ha comentaris."
 
 #: footer.php:38
 #@ woothemes
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "Tots els drets reservats"
 
 #: footer.php:48
 #@ woothemes
@@ -171,7 +171,7 @@ msgstr ""
 #: functions/admin-custom-nav.php:2314
 #@ woothemes
 msgid "Select Menu:"
-msgstr ""
+msgstr "Seleccioneu el menú:"
 
 #: functions/admin-custom-nav.php:2340
 #: includes/widgets/widget-woo-blogauthor.php:65
@@ -179,7 +179,7 @@ msgstr ""
 #: includes/widgets/widget-woo-search.php:48
 #@ woothemes
 msgid "Title:"
-msgstr ""
+msgstr "Títol:"
 
 #: functions/admin-custom-nav.php:2349
 #@ woothemes
@@ -215,24 +215,24 @@ msgstr ""
 #: functions/admin-express-functions.php:210
 #@ default
 msgid "You are not allowed to upload files to this site."
-msgstr ""
+msgstr "No teniu autorització per penjar fitxers a aquest lloc web."
 
 #: functions/admin-express-functions-deprecated.php:220
 #: functions/admin-express-functions.php:236
 #, php-format
 #@ default
 msgid "Could not write file %1$s (%2$s)"
-msgstr ""
+msgstr "No s'ha pogut escriure el fitxer %1$s (%2$s)"
 
 #: functions/admin-functions.php:1622
 #@ woothemes
 msgid "Search Results"
-msgstr ""
+msgstr "Resultat de la cerca"
 
 #: functions/admin-functions.php:1623
 #@ woothemes
 msgid "Author Archives"
-msgstr ""
+msgstr "Arxiu de l'autor"
 
 #: functions/admin-functions.php:1626
 #@ woothemes
@@ -243,7 +243,7 @@ msgstr ""
 #: functions/admin-functions.php:1632
 #@ woothemes
 msgid " Archive"
-msgstr ""
+msgstr "Arxiu"
 
 #: functions/admin-functions.php:1628
 #@ woothemes
@@ -268,23 +268,23 @@ msgstr ""
 #: functions/admin-functions.php:2580
 #@ woothemes
 msgid "&laquo; Previous"
-msgstr ""
+msgstr "&laquo; Entrades anteriors"
 
 #: functions/admin-functions.php:2581
 #@ woothemes
 msgid "Next &raquo;"
-msgstr ""
+msgstr "Entrades següents &raquo;"
 
 #: functions/admin-functions.php:2700
 #@ woothemes
 msgid "You are here:"
-msgstr ""
+msgstr "Esteu aquí:"
 
 #: functions/admin-functions.php:2703
 #: header.php:75
 #@ woothemes
 msgid "Home"
-msgstr ""
+msgstr "Inici"
 
 #: functions/admin-functions.php:2868
 #@ woothemes
@@ -358,7 +358,7 @@ msgstr ""
 #: functions/admin-interface.php:187
 #@ woothemes
 msgid "Theme Options"
-msgstr ""
+msgstr "Opcions del tema"
 
 #: functions/admin-backup.php:133
 #: functions/admin-functions.php:3175
@@ -421,7 +421,7 @@ msgstr ""
 #: functions/admin-medialibrary-uploader.php:170
 #@ woothemes
 msgid "Upload"
-msgstr ""
+msgstr "Penja"
 
 #: functions/admin-medialibrary-uploader.php:206
 #@ woothemes
@@ -431,7 +431,7 @@ msgstr ""
 #: functions/admin-medialibrary-uploader.php:362
 #@ woothemes
 msgid "Gallery"
-msgstr ""
+msgstr "Galeria"
 
 #: functions/admin-medialibrary-uploader.php:362
 #@ woothemes
@@ -475,7 +475,7 @@ msgstr ""
 #: template-contact.php:177
 #@ woothemes
 msgid "Submit"
-msgstr ""
+msgstr "Envia"
 
 #: functions/admin-shortcodes.php:1343
 #@ woothemes
@@ -530,7 +530,7 @@ msgstr ""
 #@ woothemes
 #@ default
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: functions/admin-shortcodes.php:1508
 #: includes/theme-functions.php:291
@@ -538,13 +538,13 @@ msgstr ""
 #@ woothemes
 #@ default
 msgid "Email"
-msgstr ""
+msgstr "Correu electrònic"
 
 #: functions/admin-shortcodes.php:1519
 #: template-contact.php:169
 #@ woothemes
 msgid "Message"
-msgstr ""
+msgstr "Missatge"
 
 #: functions/admin-shortcodes.php:1655
 #: template-contact.php:175
@@ -587,7 +587,7 @@ msgstr ""
 #: functions/js/shortcode-generator/dialog.php:60
 #@ woothemes
 msgid "Preview"
-msgstr ""
+msgstr "Previsualitza"
 
 #: functions/js/shortcode-generator/dialog.php:74
 #@ woothemes
@@ -604,7 +604,7 @@ msgstr ""
 #: functions/js/shortcode-generator/dialog.php:93
 #@ woothemes
 msgid "What to do now?"
-msgstr ""
+msgstr "Què faig ara?"
 
 #: functions/js/shortcode-generator/dialog.php:81
 #@ woothemes
@@ -642,13 +642,13 @@ msgstr ""
 #: includes/widgets/widget-woo-blog.php:194
 #@ woothemes
 msgid "Hits From The Blog"
-msgstr "Ultimes notícies"
+msgstr ""
 
 #: includes/home-portfolio.php:20
 #: includes/widgets/widget-woo-portfolio.php:179
 #@ woothemes
 msgid "Portfolio Snapshots"
-msgstr ""
+msgstr "Galeria"
 
 #: includes/sidebar-init.php:11
 #@ woothemes
@@ -723,12 +723,12 @@ msgstr ""
 #: includes/theme-comments.php:22
 #@ woothemes
 msgid "Edit"
-msgstr ""
+msgstr "Edita"
 
 #: includes/theme-comments.php:33
 #@ woothemes
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "El comentari està esperant moderació."
 
 #: includes/theme-functions.php:105
 #@ woothemes
@@ -754,7 +754,7 @@ msgstr ""
 #: includes/theme-functions.php:719
 #@ woothemes
 msgid "by"
-msgstr "per"
+msgstr ""
 
 #: includes/theme-functions.php:167
 #: includes/theme-functions.php:720
@@ -794,19 +794,19 @@ msgstr ""
 #: includes/theme-functions.php:216
 #@ woothemes
 msgid "E-mail"
-msgstr ""
+msgstr "Correu electrònic"
 
 #: includes/theme-functions.php:229
 #: includes/widgets/widget-woo-social.php:109
 #@ woothemes
 msgid "Follow us on Twitter"
-msgstr ""
+msgstr "Segueix-nos a Twitter"
 
 #: includes/theme-functions.php:232
 #: includes/widgets/widget-woo-social.php:103
 #@ woothemes
 msgid "Connect on Facebook"
-msgstr ""
+msgstr "Segueix-nos a Facebook"
 
 #: includes/theme-functions.php:235
 #@ woothemes
@@ -837,7 +837,7 @@ msgstr ""
 #: includes/theme-functions.php:257
 #@ woothemes
 msgid "Related Posts:"
-msgstr ""
+msgstr "Entrades relacionades"
 
 #: includes/theme-functions.php:280
 #@ woothemes
@@ -847,17 +847,17 @@ msgstr ""
 #: includes/theme-functions.php:295
 #@ default
 msgid "Website"
-msgstr ""
+msgstr "Lloc web"
 
 #: includes/theme-functions.php:315
 #@ woothemes
 msgid "Submit Comment"
-msgstr ""
+msgstr "Envia el comentari"
 
 #: includes/theme-functions.php:316
 #@ woothemes
 msgid "Click here to cancel reply."
-msgstr ""
+msgstr "Feu clic aquí per cancel·lar la resposta."
 
 #: includes/theme-functions.php:344
 #@ woothemes
@@ -875,7 +875,7 @@ msgstr ""
 #@ woothemes
 msgctxt "infobox"
 msgid "Add New"
-msgstr ""
+msgstr "Afegeix"
 
 #: includes/theme-functions.php:347
 #@ woothemes
@@ -930,7 +930,7 @@ msgstr ""
 #@ woothemes
 msgctxt "slide"
 msgid "Add New"
-msgstr ""
+msgstr "Afegeix"
 
 #: includes/theme-functions.php:389
 #@ woothemes
@@ -977,13 +977,13 @@ msgstr ""
 #: includes/theme-functions.php:616
 #@ woothemes
 msgid "Order"
-msgstr ""
+msgstr "Ordre"
 
 #: includes/theme-functions.php:442
 #: includes/theme-functions.php:618
 #@ woothemes
 msgid "Added By"
-msgstr "Afegit per"
+msgstr ""
 
 #: includes/theme-functions.php:443
 #: includes/theme-functions.php:619
@@ -1054,7 +1054,7 @@ msgstr ""
 #@ default
 msgctxt "taxonomy singular name"
 msgid "Portfolio Gallery"
-msgstr ""
+msgstr "Galeria"
 
 #: includes/theme-functions.php:546
 #@ woothemes
@@ -1106,7 +1106,7 @@ msgstr ""
 #@ default
 msgctxt "column name"
 msgid "Title"
-msgstr ""
+msgstr "Títol"
 
 #: includes/theme-functions.php:657
 #@ woothemes
@@ -1122,7 +1122,7 @@ msgstr ""
 #: includes/widgets/widget-woo-blogauthor.php:98
 #@ woothemes
 msgid "All"
-msgstr ""
+msgstr "Tot"
 
 #: includes/theme-functions.php:797
 #@ woothemes
@@ -1137,7 +1137,7 @@ msgstr ""
 #: includes/theme-functions.php:1027
 #@ woothemes
 msgid "By"
-msgstr "per"
+msgstr ""
 
 #: includes/theme-options.php:62
 #@ woothemes
@@ -1148,7 +1148,7 @@ msgstr ""
 #: includes/theme-options.php:106
 #@ woothemes
 msgid "General Settings"
-msgstr ""
+msgstr "Opcions generals"
 
 #: includes/theme-options.php:92
 #@ woothemes
@@ -1184,7 +1184,7 @@ msgstr ""
 #: includes/theme-options.php:112
 #@ woothemes
 msgid "Site Title"
-msgstr ""
+msgstr "Títol del lloc web"
 
 #: includes/theme-options.php:113
 #@ woothemes
@@ -1296,7 +1296,7 @@ msgstr ""
 #: includes/widgets/widget-woo-feedback.php:204
 #@ woothemes
 msgid "None"
-msgstr ""
+msgstr "Cap"
 
 #: includes/theme-options.php:176
 #@ woothemes
@@ -1332,7 +1332,7 @@ msgstr ""
 #: includes/theme-options.php:183
 #@ woothemes
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 #: includes/theme-options.php:188
 #@ woothemes
@@ -1468,7 +1468,7 @@ msgstr ""
 #: includes/theme-options.php:268
 #@ woothemes
 msgid "Navigation"
-msgstr ""
+msgstr "Navegació"
 
 #: includes/theme-options.php:269
 #@ woothemes
@@ -1777,14 +1777,14 @@ msgstr ""
 #: includes/theme-options.php:570
 #@ woothemes
 msgid "Width"
-msgstr ""
+msgstr "Amplada"
 
 #: includes/theme-options.php:467
 #: includes/theme-options.php:544
 #: includes/theme-options.php:574
 #@ woothemes
 msgid "Height"
-msgstr ""
+msgstr "Alçada"
 
 #: includes/theme-options.php:470
 #@ woothemes
@@ -1889,7 +1889,7 @@ msgstr ""
 #: includes/widgets/widget-woo-blogauthor.php:83
 #@ woothemes
 msgid "Left"
-msgstr ""
+msgstr "Esquerra"
 
 #: includes/theme-options.php:552
 #: includes/theme-options.php:583
@@ -1898,7 +1898,7 @@ msgstr ""
 #: includes/widgets/widget-woo-blogauthor.php:84
 #@ woothemes
 msgid "Right"
-msgstr ""
+msgstr "Dreta"
 
 #: includes/theme-options.php:552
 #: includes/theme-options.php:583
@@ -1906,7 +1906,7 @@ msgstr ""
 #: includes/theme-options.php:831
 #@ woothemes
 msgid "Center"
-msgstr ""
+msgstr "Centrat"
 
 #: includes/theme-options.php:554
 #@ woothemes
@@ -1956,7 +1956,7 @@ msgstr ""
 #: includes/theme-options.php:603
 #@ woothemes
 msgid "Title"
-msgstr ""
+msgstr "Títol"
 
 #: includes/theme-options.php:604
 #@ woothemes
@@ -2044,7 +2044,7 @@ msgstr ""
 #: includes/theme-options.php:671
 #@ woothemes
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: includes/theme-options.php:672
 #@ woothemes
@@ -2164,7 +2164,7 @@ msgstr ""
 #: includes/theme-options.php:764
 #@ woothemes
 msgid "Portfolio Image"
-msgstr ""
+msgstr "Imatge"
 
 #: includes/theme-options.php:766
 #@ woothemes
@@ -2249,7 +2249,7 @@ msgstr ""
 #: includes/theme-options.php:860
 #@ woothemes
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: includes/theme-options.php:814
 #@ woothemes
@@ -2259,7 +2259,7 @@ msgstr ""
 #: includes/theme-options.php:821
 #@ woothemes
 msgid "Image"
-msgstr ""
+msgstr "Imatge"
 
 #: includes/theme-options.php:823
 #@ woothemes
@@ -2319,7 +2319,7 @@ msgstr ""
 #: includes/theme-options.php:915
 #@ woothemes
 msgid "Layout"
-msgstr ""
+msgstr "Format"
 
 #: includes/theme-options.php:917
 #@ woothemes
@@ -2421,18 +2421,18 @@ msgstr ""
 #: includes/widgets/widget-woo-embed.php:99
 #@ woothemes
 msgid "Category:"
-msgstr ""
+msgstr "Categoria:"
 
 #: includes/widgets/widget-woo-embed.php:111
 #@ woothemes
 msgid "Tag:"
-msgstr ""
+msgstr "Etiqueta:"
 
 #: includes/widgets/widget-woo-embed.php:116
 #: includes/widgets/widget-woo-flickr.php:107
 #@ woothemes
 msgid "Size:"
-msgstr ""
+msgstr "Mida:"
 
 #: includes/widgets/widget-woo-embed.php:122
 #@ woothemes
@@ -2467,7 +2467,7 @@ msgstr ""
 #: includes/widgets/widget-woo-flickr.php:95
 #@ woothemes
 msgid "User"
-msgstr ""
+msgstr "Usuari"
 
 #: includes/widgets/widget-woo-flickr.php:96
 #@ woothemes
@@ -2486,27 +2486,27 @@ msgstr ""
 #: includes/widgets/widget-woo-tabs.php:215
 #@ woothemes
 msgid "Latest"
-msgstr ""
+msgstr "Darrera"
 
 #: includes/widgets/widget-woo-flickr.php:103
 #@ woothemes
 msgid "Random"
-msgstr ""
+msgstr "Aleatori"
 
 #: includes/widgets/widget-woo-flickr.php:109
 #@ woothemes
 msgid "Square"
-msgstr ""
+msgstr "Quadrat"
 
 #: includes/widgets/widget-woo-flickr.php:110
 #@ woothemes
 msgid "Medium"
-msgstr ""
+msgstr "Mitjana"
 
 #: includes/widgets/widget-woo-flickr.php:111
 #@ woothemes
 msgid "Thumbnail"
-msgstr ""
+msgstr "Miniatura"
 
 #: includes/widgets/widget-woo-postmeta.php:54
 #@ woothemes
@@ -2536,7 +2536,7 @@ msgstr ""
 #: includes/widgets/widget-woo-postmeta.php:106
 #@ woothemes
 msgid "Shortlink"
-msgstr ""
+msgstr "Enllaç curt"
 
 #: includes/widgets/widget-woo-postmeta.php:160
 #@ woothemes
@@ -2611,7 +2611,7 @@ msgstr ""
 #: template-sitemap.php:55
 #@ woothemes
 msgid "Comments"
-msgstr ""
+msgstr "Comentaris"
 
 #: includes/widgets/widget-woo-tabs.php:63
 #: includes/widgets/widget-woo-tabs.php:72
@@ -2619,14 +2619,14 @@ msgstr ""
 #: includes/widgets/widget-woo-tabs.php:221
 #@ woothemes
 msgid "Tags"
-msgstr ""
+msgstr "Etiquetes"
 
 #: includes/widgets/widget-woo-tabs.php:66
 #: includes/widgets/widget-woo-tabs.php:204
 #: includes/widgets/widget-woo-tabs.php:212
 #@ woothemes
 msgid "Popular"
-msgstr ""
+msgstr "Populars"
 
 #: includes/widgets/widget-woo-tabs.php:187
 #@ woothemes
@@ -2666,7 +2666,7 @@ msgstr ""
 #: includes/widgets/widget-woo-twitter.php:69
 #@ woothemes
 msgid "Username:"
-msgstr ""
+msgstr "Nom d'usuari:"
 
 #: includes/widgets/widget-woo-feedback.php:197
 #: includes/widgets/widget-woo-twitter.php:73
@@ -2679,17 +2679,17 @@ msgstr ""
 #: template-feedback.php:29
 #@ woothemes
 msgid "Pages:"
-msgstr ""
+msgstr "Pàgines:"
 
 #: search-form.php:3
 #@ woothemes
 msgid "Search..."
-msgstr ""
+msgstr "Cerca..."
 
 #: search.php:18
 #@ woothemes
 msgid "Search results:"
-msgstr ""
+msgstr "Resultats de la cerca:"
 
 #: single.php:41
 #, php-format
@@ -2711,13 +2711,13 @@ msgstr ""
 #: template-archives.php:35
 #@ woothemes
 msgid "comments"
-msgstr ""
+msgstr "comentaris"
 
 #: template-archives.php:43
 #: template-sitemap.php:35
 #@ woothemes
 msgid "Categories"
-msgstr ""
+msgstr "Categories"
 
 #: template-archives.php:50
 #@ woothemes
@@ -2777,7 +2777,7 @@ msgstr ""
 #: template-sitemap.php:28
 #@ woothemes
 msgid "Pages"
-msgstr ""
+msgstr "Pàgines"
 
 #: template-sitemap.php:42
 #@ woothemes
@@ -2787,12 +2787,12 @@ msgstr ""
 #: template-timeline.php:74
 #@ woothemes
 msgid "1 comment"
-msgstr ""
+msgstr "1 comentari"
 
 #: template-timeline.php:74
 #@ woothemes
 msgid "% comments"
-msgstr ""
+msgstr "% comentaris"
 
 #: functions/admin-backup.php:73
 #@ woothemes
@@ -2845,7 +2845,7 @@ msgstr ""
 #: functions/admin-backup.php:126
 #@ woothemes
 msgid "All Settings"
-msgstr ""
+msgstr "Totes les opcions"
 
 #: functions/admin-backup.php:127
 #@ woothemes
@@ -2865,7 +2865,7 @@ msgstr ""
 #: functions/admin-backup.php:138
 #@ woothemes
 msgid "Download Export File"
-msgstr ""
+msgstr "Descarrega el fitxer d'exportació"
 
 #: functions/admin-backup.php:161
 #@ woothemes
@@ -2938,17 +2938,17 @@ msgstr ""
 #: functions/admin-functions.php:1034
 #@ woothemes
 msgid "minutes ago"
-msgstr ""
+msgstr "minuts"
 
 #: functions/admin-functions.php:1038
 #@ woothemes
 msgid "hours ago"
-msgstr ""
+msgstr "hores"
 
 #: functions/admin-functions.php:1042
 #@ woothemes
 msgid "days ago"
-msgstr ""
+msgstr "dies"
 
 #: includes/theme-functions.php:1063
 #@ woothemes
@@ -3000,12 +3000,12 @@ msgstr ""
 #: includes/theme-functions.php:1237
 #@ woothemes
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: includes/theme-functions.php:1238
 #@ woothemes
 msgid "Next"
-msgstr ""
+msgstr "Següent"
 
 #: includes/theme-options.php:478
 #@ woothemes

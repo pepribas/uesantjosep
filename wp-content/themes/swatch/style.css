@@ -231,7 +231,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 	#navigation .nav li ul li:last-child a { border-bottom:none; }
 
 	/* 2.2.2 Top Navigation (optional) */
-	#top { background: #000; }
+	#top { background: #000; font: bold 12px/1em arial, sans-serif; }
 	#top .nav { }
 	#top .nav a { color:#ddd; padding:8px 10px; line-height:18px; text-decoration:none; text-shadow:none; }
 	#top .nav li  {  }
@@ -243,7 +243,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 	#top .nav li.current-menu-ancestor a,
 	#top .nav li.current-cat a,
 	#top .nav li.current-menu-item a,
-	#top .nav li.sfHover { background: #333; }
+	#top .nav li.sfHover { background: #222; color: #DD7D29; }
 	
 	#top .nav li ul  { background: #222; margin:0; padding:0px; width: 180px; border: none; z-index:9999;
 		/* Box Shadow */
@@ -269,7 +269,6 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 	#top .nav li li:hover ul, #top .nav li li.sfhover ul,
 	#top .nav li li li:hover ul, #top .nav li li li.sfhover ul,
 	#top .nav li li li li:hover ul, #top .nav li li li li.sfhover ul  { left:auto; }
-	#top .fl  { float:right; }
 
 /* 2.3 Header */
 #header{ position: relative; z-index: 999; margin: 0 0 30px; background: transparent url(images/bg-ripple-header.png) repeat left bottom; }

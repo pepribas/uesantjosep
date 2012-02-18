@@ -29,7 +29,7 @@ global $woo_options;
 
 	<div id="top">
 		<div class="col-full">
-			<?php wp_nav_menu( array( 'depth' => 6, 'sort_column' => 'menu_order', 'container' => 'ul', 'menu_id' => 'top-nav', 'menu_class' => 'nav fl', 'theme_location' => 'top-menu' ) ); ?>
+			<?php wp_nav_menu( array( 'depth' => 6, 'sort_column' => 'menu_order', 'container' => 'ul', 'menu_id' => 'top-nav', 'menu_class' => 'nav fr', 'theme_location' => 'top-menu' ) ); ?>
 		</div>
 	</div><!-- /#top -->
 

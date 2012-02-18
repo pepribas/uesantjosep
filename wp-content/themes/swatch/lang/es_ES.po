@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-02-18 14:31+0100\n"
+"PO-Revision-Date: 2012-02-18 19:29+0100\n"
 "Last-Translator: Pepe Ribas <pepribasp@gmail.com>\n"
 "Language-Team: Catalan; Valencian <>\n"
 "MIME-Version: 1.0\n"
@@ -1088,7 +1088,7 @@ msgstr ""
 # @ woothemes
 #: includes/theme-functions.php:742
 msgid "Select a category:"
-msgstr ""
+msgstr "Selecionar una categoría:"
 
 # @ woothemes
 #: includes/theme-functions.php:760

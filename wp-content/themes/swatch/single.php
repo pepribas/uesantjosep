@@ -49,8 +49,17 @@
 					<div class="fix"></div>
 				</div><!-- #post-author -->
 				<?php } ?>
-
-				<?php woo_subscribe_connect(); ?>
+		<div id="connect">
+			<div class="social">
+                        <!-- Add social share buttons -->
+			<a href="https://twitter.com/share" class="twitter-share-button" data-via="uesantjosep" data-text="<?php the_title(); ?>" data-url="<?php the_permalink(); ?>">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];
+			if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";
+	fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			<div class="fb-send" data-href="<?php echo get_permalink($post->ID); ?>" data-font="arial"></div>
+			</div>
+		</div>
+			<?php woo_subscribe_connect(); ?>
 
 	        <div id="post-entries">
 	            <div class="nav-prev fl"><?php previous_post_link( '%link', '<span class="meta-nav">&larr;</span> %title' ); ?></div>

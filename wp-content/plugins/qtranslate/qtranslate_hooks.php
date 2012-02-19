@@ -305,6 +305,7 @@ add_filter('author_feed_link',				'qtrans_convertURL');
 add_filter('day_link',						'qtrans_convertURL');
 add_filter('get_comment_author_url_link',	'qtrans_convertURL');
 add_filter('month_link',					'qtrans_convertURL');
+add_filter('home_url',						'qtrans_convertURL');
 add_filter('page_link',						'qtrans_convertURL');
 add_filter('post_link',						'qtrans_convertURL');
 add_filter('year_link',						'qtrans_convertURL');

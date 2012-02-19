@@ -38,7 +38,16 @@ global $woo_options;
 
 	<div id="top">
 		<div class="col-full">
-			<?php wp_nav_menu( array( 'depth' => 6, 'sort_column' => 'menu_order', 'container' => 'ul', 'menu_id' => 'top-nav', 'menu_class' => 'nav fr', 'theme_location' => 'top-menu' ) ); ?>
+			<?php wp_nav_menu( array( 'depth' => 6, 'sort_column' => 'menu_order', 'container' => 'ul', 'menu_id' => 'top-nav', 'menu_class' => 'nav fl', 'theme_location' => 'top-menu' ) ); ?>
+			<?php if ( function_exists( 'qtrans_generateLanguageSelectCode' )) { ?>
+				<div class="fr">
+					<ul class="nav fl sf-js-enabled">
+					<li><a href=""><?php echo qtrans_getLanguageName() ?></a>
+					<?php echo qtrans_generateLanguageSelectCode('text'); ?>
+					</li>
+					</ul>
+				</div>
+			<?php } ?>
 		</div>
 	</div><!-- /#top -->
 

@@ -234,7 +234,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 	#top { background: #000; font: bold 12px/1em arial, sans-serif; }
 	#top .nav { }
 	#top .nav a { color:#ddd; padding:8px 10px; line-height:18px; text-decoration:none; text-shadow:none; }
-	#top .nav li  {  }
+	#top .nav li  { float:left; width: auto; margin-right: 15px; margin-left: 0px; }
 	#top .nav li a.sf-with-ul { padding-right:20px; }
 	
 	#top .nav a:hover,
